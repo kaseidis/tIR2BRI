@@ -1,0 +1,5 @@
+*-256*/
+__*/*
+*.py
+pre-trained/*
++pre-trained/tIR2BRI_last.ckpt
